@@ -1,2 +1,2 @@
 # -Biodiversity-in-National-Parks
-In this project, I interpreted data from the National Parks Service about endangered species in different parks.
+In this project, I interpreted data from the National Parks Service about endangered species in different parks. This presentation aims to provide an overview of the data in species_info.csv and the significance calculations done to analyze the endangered status between different categories of species. The presentation will also provide recommendations for conservationists concerned about endangered species and a conclusion summarizing the findings.
